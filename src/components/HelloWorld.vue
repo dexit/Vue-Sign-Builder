@@ -17,7 +17,7 @@
       <button @click="stage = 1" class="w-64 rounded button reset">
         Start over
       </button>
-      <div v-if="stage == 1" class="bged">
+      <div v-if="stage == 1" class="bged2">
         <!--         <select name="" id="" >
         <option @click="backgroundVariable = 'gray'">Grey</option>
         <option @click="backgroundVariable = 'wood'">Wood</option>
